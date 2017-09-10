@@ -1,0 +1,21 @@
+{
+  "name": "my-supermarket-shopping",
+  "version": "1.0.0",
+  "description": "Just a list for your grocery shopping for the month",
+  "main": "service-worker.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredbnm/pwa-initial-project.git"
+  },
+  "author": "Fred Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredbnm/pwa-initial-project/issues"
+  },
+  "homepage": "https://github.com/Fredbnm/pwa-initial-project#readme"
+}
